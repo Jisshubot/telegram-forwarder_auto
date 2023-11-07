@@ -1,4 +1,4 @@
-# Channel Auto-Post Bot
+# Super Fast Message Forword Bot 33,000 File in One Day Forword
 
 This makes a user send all messages from one/many chat(s) to another chat(s).
 
